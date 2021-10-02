@@ -1,6 +1,3 @@
-library(params)
-set_opts(
-    name = "John",
-    verbose = TRUE, 
-    my_dir = "~/mypath")
-get_opts() 
+Contact On Discord: Infection#7299
+Working from home #StaySafe
+Make Money
