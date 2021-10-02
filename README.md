@@ -1,1 +1,6 @@
-I work from the cellar
+library(params)
+set_opts(
+    name = "John",
+    verbose = TRUE, 
+    my_dir = "~/mypath")
+get_opts() 
