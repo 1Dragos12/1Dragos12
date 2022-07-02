@@ -22,9 +22,3 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
-
-Direct crypto donations:<br>
-<img src="https://img.shields.io/badge/BTC-9C6205?logoWidth=17&style=for-the-badge&logo=bitcoin" alt="BTC"> `3KpYvoBeXtayqAExS1twB3VQ2tLLJ3GQTN`<br>
-<img src="https://img.shields.io/badge/ETH-454A75?logoWidth=16&style=for-the-badge&logo=ethereum&logoColor=75A6C6" alt="ETH"> `0x99a0fb1bc2adb78f9292be33ee57c1ff2c00ff4f`<br>
-<img src="https://img.shields.io/badge/LTC-00577F?logoWidth=18&style=for-the-badge&logo=litecoin&logoColor=d3d3d3" alt="LTC"> `ME1SpSPy7fJXLQLLQLdsHQduqbGxS2i9is`<br>
-<img src="https://img.shields.io/badge/XMR-A13900?style=for-the-badge&logo=monero" alt="XMR"> `4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQnYPD9ZKm6H6RSchA2`
